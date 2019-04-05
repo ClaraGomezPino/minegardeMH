@@ -23,7 +23,7 @@ incorporar, una página única para cada monstruo sería lo más propicio.
 
 # A implementar.
 
-Así mismo, queda por incorporar lo que debería ser la página principal, index.jsp cuya idea principal residiría en el uso de las otras 
+Así mismo, queda por incorporar lo que debería ser la página principal en lugar de bestiario.jsp: index.jsp cuya idea principal residiría en el uso de las otras 
 dos tablas como un índice de actualidad, quedando el estado de la fauna de los biomas y la lista de misiones como un punto inicial que
 resulta más lógico para su uso al margen de cazadores, pues cualquiera es capaz de publicar sus peticiones, si bien no de editarlas,
 pues nos ceñiríamos a la idea de papeles colgados en una tabla. No obstante deberíamos ser capaces de buscar las misiones en base al
